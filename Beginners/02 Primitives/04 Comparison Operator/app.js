@@ -1,3 +1,4 @@
+// Comparison Operators
 // 1. Create variable name (firstFavNumb) & store your favorite number.
 // 2. Create variable name (secondFavNumb) & store second fav Number.
 // 3. Check (firstFavNumb is greater then secondFavNumb)
