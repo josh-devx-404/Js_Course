@@ -11,6 +11,6 @@ const favActorLastName = "Neeson";
 const fullName = (favActorFirstName + " " + favActorLastName);
 const uppercase = fullName.toUpperCase();
 let message = `My favorite Actor is ${uppercase},`;
-message += " his best show is Silicon Valley.";
+message += ' his best show is Silicon Valley.';
 
 console.log(message);
