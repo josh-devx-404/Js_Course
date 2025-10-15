@@ -9,3 +9,4 @@
         for (num; num <= 10; num++){
             console.log("Josh");
         }
+

@@ -1,7 +1,7 @@
 // if else condition
 
-const a = 40;
-const b = 30;
+    const a = 40;
+    const b = 30;
 
     if (a > b){
         console.log("a is greather than b");
@@ -16,7 +16,7 @@ const b = 30;
 // 4. If password is greater then or equal to 8 print "Too Long Password" & "Password should be 8 characters"
 // 5. If all fails print "Please provide a password."
 
-let password = "hotdog29";
+    let password = "hotdog29";
 
     if (!password){
         console.log("Please provide password.");
@@ -29,7 +29,7 @@ let password = "hotdog29";
     }
 
 
-let mypass;
+    let mypass;
 
     if (!mypass){
         console.log("Provide a password");
@@ -41,7 +41,7 @@ let mypass;
         console.log(`Too Long Password & Password should be 8 characters.`)
     }
 
-let age = 40;
+    let age = 40;
 
     if (!age){
         console.log("Input your age");
