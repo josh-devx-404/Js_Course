@@ -16,3 +16,19 @@ console.log(typeof car);
 car.type = "Toyota";
 car.wheels = 4;
 console.log(car);
+
+const product = [
+
+    {name: "Laptop",
+    price: 3000,
+    brand: "HP",
+    color: "silver"},
+
+    {name: "Phone",
+    price: 1000,
+    brand: "iPhone",
+    color: "gold"},
+
+]
+
+console.log(product);
