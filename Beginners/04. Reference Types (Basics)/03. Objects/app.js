@@ -6,3 +6,13 @@
 // 6. log car to the console.
 
 
+const car = {
+    type: "Honda",
+    modal: "2020",
+    color: "black"
+};
+
+console.log(typeof car);
+car.type = "Toyota";
+car.wheels = 4;
+console.log(car);

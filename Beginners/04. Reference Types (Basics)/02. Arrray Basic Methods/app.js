@@ -8,5 +8,21 @@
 // slice() selects the part of an array and returns the new array
 // splice() removes or replaces existing elements and/or adds new elements
 
+let fruits = ["Banana", "Orange", "Apple"];
+let vegetables = ["Tomato", "Potato", "Cabbage"];
+let allFood = fruits.concat(vegetables);
+console.log(allFood);
+
+console.log(fruits.includes("Banana"));
+console.log(fruits.push("Mango"));
+console.log(fruits);
+console.log(fruits.unshift("Pineapple"));
+console.log(fruits);
+console.log(fruits.pop());
+console.log(fruits);
+console.log(fruits.shift());
+console.log(fruits);
+console.log(fruits.sort());
+
 
 
