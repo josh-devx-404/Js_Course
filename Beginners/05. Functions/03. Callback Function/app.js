@@ -26,4 +26,4 @@ function displayResult(result){
     console.log(`The result of the operation is: ${result}`);
 }
 
-calculate(displayResult);w
+calculate(displayResult);
