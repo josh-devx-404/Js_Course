@@ -1,7 +1,7 @@
 
-// a method is a function that is associated with an object.     
-// It allows objects to perform actions or provide functionalities. /*
-
+// a method is a function that is associated with an object.    
+// It allows objects to perform actions or provide functionalities. 
+// while functions are standalone blocks of code that can be called independently.
 // Example of a method in JavaScript:
 
 const person = {
@@ -28,7 +28,7 @@ const user = {
 
 console.log(user.greet());
 
-// Another Example
+// Methods for User Authentication
 
 const user = {
     username: "joshdevx404",
